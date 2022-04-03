@@ -16,7 +16,7 @@
 
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BochilGaming/games-wabot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nadjieb08/lordbot-v2)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
@@ -28,7 +28,7 @@
 ```bash
 pkg update && pkg upgrade
 pkg install bash && pkg install wget
-wget -O - https://raw.githubusercontent.com/BochilGaming/games-wabot/main/install2.sh | bash
+wget -O - https://raw.githubusercontent.com/nadjieb08/lordbot-v2/main/install2.sh | bash
 ```
 
 ---------
@@ -62,7 +62,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/BochilGaming/games-wabot
+git clone https://github.com/nadjieb08/lordbot-v2
 cd games-wabot
 npm install
 npm update
@@ -78,7 +78,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/AmmarBN/lordbot-v2
+git clone https://github.com/nadjieb08/lordbot-v2
 cd lordbot-v2
 npm install
 npm start
@@ -195,7 +195,7 @@ Presence avaible: available, composing, recording, paused
 ### want to use multi-device (md)?
 now games-wabot already support MD, but of course there are still many **bugs** and there are still many that have not been **implemented**,
 
-use this [branch](https://github.com/BochilGaming/games-wabot/tree/multi-device) if you want to use MD!
+use this [branch](https://github.com/nadjieb08/tes) if you want to use MD!
 
 ---------
 
