@@ -1,5 +1,5 @@
 global.DeveloperMode = 'true' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
+global.linkGC = ['https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd', 'https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
   '6289688069444': { // put your number here
@@ -54,8 +54,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Copyright TikiBot'
-global.author = 'TikiBot Best Bot\n for ©AmmarBN\n*────「 Big Thx For 」────*\n*Allah SWT*\n*Nurutomo*\n*Ariffb*\n*BochilGaming*\n*AmmarBN*\n*games-wabot*\n*wabot-aq*\n*Adiwajshing*\n*Baileys*'
+global.packname = 'Copyright LordBot'
+global.author = 'LordMd Best Bot\n for ©AmmarBN\n*────「 Big Thx For 」────*\n*Allah SWT*\n*Nurutomo*\n*Ariffb*\n*BochilGaming*\n*AmmarBN*\n*games-wabot*\n*wabot-aq*\n*Adiwajshing*\n*Baileys*'
 
 global.multiplier = 39 // The higher, The harder levelup
 
