@@ -2,32 +2,32 @@ global.DeveloperMode = 'true' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '6282234343854': { // put your number here
-    name: 'Owner TikiBot',
+  '6289688069444': { // put your number here
+    name: 'Bang Lord Orang Baik',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6283155957017': { // put your number here
-    name: 'Nann (Adeknya Owner)',
+  '6289518487462': { // put your number here
+    name: 'Ratu Sadis 809 No Ke 2 Ku',
     isDev: true,
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
   '0': { // put your number here
-    name: 'Siapa ?',
+    name: 'Whatsapp',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6289503886568': {
-    name: 'Nomor TikiBotMd',
+  '6289629677446': {
+    name: 'Nomor BotMd Percobaan',
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
 }
-global.mods = ['6282234343854'] // Want some help?
+global.mods = ['6289688069444'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
